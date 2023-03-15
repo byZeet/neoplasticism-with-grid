@@ -1,8 +1,13 @@
-PREVIEW
+## NEOGRID PREVIEW
 
-PC VERSION
+## PC VERSION
+
 ![Desktop](/img/1.png)
-TABLET VERSION
+
+## TABLET VERSION
+
 ![Tablet](/img/2.png)
-MOBILE VERSION
+
+## MOBILE VERSION
+
 ![Mobile](/img/3.png)
